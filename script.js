@@ -30,7 +30,7 @@ document.getElementById("miraweb").addEventListener("click", function() {
 });
 
 document.getElementById("mirawebAdmin").addEventListener("click", function() {
-    window.open('https://abdeldjabarbell.github.io/techinnov-USTHB-ADMIN/', '_blank');
+    window.open('https://abdeldjabarbell.github.io/miradz/index.html?, '_blank');
 });
 
 document.getElementById("techinnovweb").addEventListener("click", function() {
@@ -38,7 +38,7 @@ document.getElementById("techinnovweb").addEventListener("click", function() {
 });
 
 document.getElementById("techinnovwebAdmin").addEventListener("click", function() {
-    window.open('https://abdeldjabarbell.github.io/techinnov-USTHB/', '_blank');
+    window.open('https://abdeldjabarbell.github.io/techinnov-USTHB-ADMIN/', '_blank');
 });
 
 document.getElementById("alcogaweb").addEventListener("click", function() {
