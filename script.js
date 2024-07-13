@@ -30,7 +30,7 @@ document.getElementById("miraweb").addEventListener("click", function() {
 });
 
 document.getElementById("mirawebAdmin").addEventListener("click", function() {
-    window.open('https://abdeldjabarbell.github.io/miradz/index.html?, '_blank');
+    window.open('https://abdeldjabarbell.github.io/miradz/index.html?', '_blank');
 });
 
 document.getElementById("techinnovweb").addEventListener("click", function() {
